@@ -1,5 +1,6 @@
-# Israeli Wines Price Model
-Predicting the price of Israeli wine bottles with a given set of features.
+# Historical Silver Price Model
+Predicting the quantity of silver given set of features.
+
 
 
 
