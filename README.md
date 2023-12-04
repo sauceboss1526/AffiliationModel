@@ -1,7 +1,5 @@
 # Affiliation Model
-Identifying to which terrorist organization a neutralized target belongs to using clustering.
-
-
+Identifying to which terrorist organization a random militant belings to.
 
 
 
