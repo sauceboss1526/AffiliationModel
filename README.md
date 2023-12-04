@@ -1,5 +1,5 @@
-# Historical Silver Price Model
-Predicting the quantity of silver given set of features.
+# Affiliation Model
+Identifying to which terrorist organization a random militant belings to.
 
 
 
