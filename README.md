@@ -1,5 +1,7 @@
-# Israeli Wines Price Model
-Predicting the price of Israeli wine bottles with a given set of features.
+# Affiliation Model
+Identifying to which terrorist organization a neutralized target belongs to using clustering.
+
+
 
 
 
