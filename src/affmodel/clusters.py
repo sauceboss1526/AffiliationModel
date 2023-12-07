@@ -29,11 +29,10 @@ class Kmean:
 
         Returns:
             First rows of terrorism data object"""
-        self.df = pd.read_csv('terrorismp3.csv')
+        self.df = pd.read_csv(dfpath)
         self.df.offenses = self.df.offenses.astype(str)
         self.df.terrorist = self.df.terrorist.astype(str)
-        
-        return self.df.head()
+        return self.df
     def peprocessor(self):
         """ Preprocessing of data
         
@@ -85,11 +84,11 @@ class hierararchical_clustering:
 
         Returns:
             First rows of terrorism data object"""
-        self.df = pd.read_csv('terrorismp3.csv')
+        self.df = pd.read_csv('dfpath.csv')
         self.df.offenses = self.df.offenses.astype(str)
         self.df.terrorist = self.df.terrorist.astype(str)
         
-        return self.df.head()
+        return self.df
     def peprocessor(self):
         """ Preprocessing of data
         
